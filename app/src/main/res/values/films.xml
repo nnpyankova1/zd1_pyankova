@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="films">
+        <item name="film1">голодные игры</item>
+        <item name="film2">сумерки</item>
+        <item name="film3">ПР-31 Выживание</item>
+        <item name="film4">винкс</item>
+        <item name="film5">программирование</item>
+    </array>
+</resources>
